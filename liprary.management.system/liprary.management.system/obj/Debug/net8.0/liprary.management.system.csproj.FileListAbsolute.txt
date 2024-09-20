@@ -1,0 +1,14 @@
+D:\509\day.3\task.d.3\lipraray system\liprary.management.system\liprary.management.system\bin\Debug\net8.0\liprary.management.system.exe
+D:\509\day.3\task.d.3\lipraray system\liprary.management.system\liprary.management.system\bin\Debug\net8.0\liprary.management.system.deps.json
+D:\509\day.3\task.d.3\lipraray system\liprary.management.system\liprary.management.system\bin\Debug\net8.0\liprary.management.system.runtimeconfig.json
+D:\509\day.3\task.d.3\lipraray system\liprary.management.system\liprary.management.system\bin\Debug\net8.0\liprary.management.system.dll
+D:\509\day.3\task.d.3\lipraray system\liprary.management.system\liprary.management.system\bin\Debug\net8.0\liprary.management.system.pdb
+D:\509\day.3\task.d.3\lipraray system\liprary.management.system\liprary.management.system\obj\Debug\net8.0\liprary.management.system.GeneratedMSBuildEditorConfig.editorconfig
+D:\509\day.3\task.d.3\lipraray system\liprary.management.system\liprary.management.system\obj\Debug\net8.0\liprary.management.system.AssemblyInfoInputs.cache
+D:\509\day.3\task.d.3\lipraray system\liprary.management.system\liprary.management.system\obj\Debug\net8.0\liprary.management.system.AssemblyInfo.cs
+D:\509\day.3\task.d.3\lipraray system\liprary.management.system\liprary.management.system\obj\Debug\net8.0\liprary.management.system.csproj.CoreCompileInputs.cache
+D:\509\day.3\task.d.3\lipraray system\liprary.management.system\liprary.management.system\obj\Debug\net8.0\liprary.management.system.dll
+D:\509\day.3\task.d.3\lipraray system\liprary.management.system\liprary.management.system\obj\Debug\net8.0\refint\liprary.management.system.dll
+D:\509\day.3\task.d.3\lipraray system\liprary.management.system\liprary.management.system\obj\Debug\net8.0\liprary.management.system.pdb
+D:\509\day.3\task.d.3\lipraray system\liprary.management.system\liprary.management.system\obj\Debug\net8.0\liprary.management.system.genruntimeconfig.cache
+D:\509\day.3\task.d.3\lipraray system\liprary.management.system\liprary.management.system\obj\Debug\net8.0\ref\liprary.management.system.dll
